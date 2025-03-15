@@ -1,0 +1,393 @@
+code,mod,descript,wRVU
+10140,,I&d hmtma seroma/fluid collj,1.58
+11010,,Debride skin at fx site,4.19
+11011,,Debride skin musc at fx site,4.94
+11012,,Deb skin bone at fx site,6.87
+11042,,Dbrdmt subq tis 1st 20sqcm/<,1.01
+11043,,Dbrdmt musc&/fsca 1st 20/<,2.70
+11044,,Dbrdmt bone 1st 20 sq cm/<,4.10
+11045,,Dbrdmt subq tiss each addl,0.50
+11046,,Dbrdmt musc&/fsca ea addl,1.03
+11047,,Dbrdmt bone each addl,1.80
+15734,,Paraspinal muscle flap trunk,23.00
+22010,,I&d p-spine c/t/cerv-thor,12.75
+22015,,I&d abscess p-spine l/s/ls,12.64
+22100,,Remove part of neck vertebra,11.00
+22101,,Remove part thorax vertebra,11.08
+22102,,Remove part lumbar vertebra,11.08
+22103,,Remove extra spine segment,2.34
+22110,,Remove part of neck vertebra,14.00
+22112,,Remove part thorax vertebra,14.07
+22114,,Remove part lumbar vertebra,14.07
+22116,,Remove extra spine segment,2.32
+22206,,PSO 3 column osteotomy thorac,37.18
+22207,,PSO 3 column osteotomy lumbar,36.68
+22208,,PSO 3 column osteotomy adl seg,9.66
+22210,,PCO cervical,25.38
+22212,,PCO thoracic,20.99
+22214,,PCO lumbar,21.02
+22216,,Incis addl spine segment,6.03
+22220,,Osteotomy anterior 1 vrt sgm crv,22.94
+22222,,Osteotomy anterior 1vrt sgm thrc,23.09
+22224,,Osteotomy anterior 1vrt sgm lmbr,23.09
+22226,,Osteotomy anterior 1vrt sgm ea,6.03
+22310,,Closed tx vert fx w/o manj,3.45
+22315,,Closed tx vert fx w/manj,10.11
+22318,,Treat odontoid fx w/o graft,22.72
+22319,,Treat odontoid fx w/graft,25.33
+22325,,Treat spine fracture,19.87
+22326,,Treat neck spine fracture,20.84
+22327,,Treat thorax spine fracture,20.77
+22328,,Treat each add spine fx,4.60
+22505,,Manipulation of spine,1.87
+22510,,Perq cervicothoracic inject,7.90
+22511,,Perq lumbosacral injection,7.33
+22512,,Vertebroplasty addl inject,4.00
+22513,,Perq vertebral augmentation,8.65
+22514,,Perq vertebral augmentation,7.99
+22515,,Perq vertebral augmentation,4.00
+22532,,Fusion lateral extracavitary thrc,25.99
+22533,,Fusion lateral extracavitary lmbr,24.79
+22534,,Fusion lateral extracavitary ea ad,5.99
+22548,,Arthrd ant toral/xoral c1-c2,27.06
+22551,,ACDF with decompression cervical,25.00
+22552,,ACDF with decompression cervical ea add,6.50
+22554,,ACDF no decompression crv,17.69
+22556,,ALIF(thoracic) ATIF ASF Arthrd no decompression thc,24.70
+22558,,ALIF ASF 1 disc Arthrd no decompression lum,23.53
+22585,,ALIF ATIF ACDF Arthrd ant ntrbd min dsc ea,5.52
+22586,,AxiaLIF Arthrd pre-sac ntrbdy l5-s1,28.12
+22590,,PSF craniocervical,21.76
+22595,,PSF atlas-axis,20.64
+22600,,PSF cervical,17.40
+22610,,PSF thoracic,17.28
+22612,,PSF lumbar,23.53
+22614,,PSF ea add,6.43
+22630,,TLIF,22.09
+22632,,TLIF ea add,5.22
+22633,,TLIF and PSF,26.80
+22634,,TLIF and PSF ea add,7.96
+22800,,PSF deformity <6 vrt sgm,19.50
+22802,,PSF deformity 7-12 vrt sgm,32.11
+22804,,PSF deformity 13+ vrt sgm,37.50
+22808,,ASF deformity 2-3 vrt sgm,27.51
+22810,,ASF deformity 4-7 vrt sgm,31.50
+22812,,ASF deformity 8+ vrt sgm,34.25
+22818,,VCR Kyphectomy 1-2 segments,34.33
+22819,,VCR Kyphectomy 3 or more,39.38
+22830,,Exploration of spinal fusion,11.22
+22836,,Ant thrc vrt body tethrg <7,32.00
+22837,,Ant thrc vrt body tethrg 8+,35.50
+22838,,Rev rplc/rmv thrc vrt tethrg,36.00
+22840,,Instr Post non-segmental,12.52
+22841,,Instr Post Wire,0.00
+22842,,Instr Post Seg 3-6,12.56
+22843,,Instr Post Seg 7-12,13.44
+22844,,Instr Post Seg 13 and up,16.42
+22845,,Instr Ant Seg 3,11.94
+22846,,Instr Ant Seg 4-7,12.40
+22847,,Instr Ant Seg 8 and up,13.78
+22848,,Instr Pelvic or Iliac,5.99
+22849,,Instr Reinsert spinal fixation,19.17
+22850,,Instr Post Remove Non Seg,9.82
+22852,,Instr Post Remove Seg,9.37
+22853,,Instr Cage Interbody,4.25
+22854,,Instr Cage Corpectomy,5.50
+22855,,Instr Ant Removal,15.86
+22856,,Instr TDR 1st cervical,24.05
+22857,,Instr TDR 1st lumbar,27.13
+22858,,Instr TDR 2nd cervical,8.40
+22859,,Instr Cage/Cement without fusion,5.50
+22860,,Instr TDR 2nd lmbr,6.88
+22861,,Instr TDR Revision 1st cervical,33.36
+22862,,Instr TDR Revision 1st lumbar,32.63
+22864,,Instr TDR Removal cervical,29.40
+22865,,Instr TDR Removal lumbar,31.75
+22867,,Instr Interlaminar or Interspinous process device (older),15.00
+22868,,Instr Interlaminar or Interspinous process device (older) ea add level,4.00
+22869,,Instr Interlaminar or Interspinous process device (newer),7.03
+22870,,Instr Interlaminar or Interspinous process device (newer) ea add level,2.34
+22899,,Unlisted procedure spine,0.00
+22900,,Exc abdl tum deep < 5 cm,8.32
+22901,,Exc abdl tum deep 5 cm/>,10.11
+22902,,Exc abd les sc < 3 cm,4.42
+22903,,Exc abd les sc 3 cm/>,6.39
+22904,,Radical resect abd tumor<5cm,16.69
+22905,,Rad resect abd tumor 5 cm/>,21.58
+22999,,Unlisted px abdomen muscskel,0.00
+27040,,Biopsy of soft tissues,2.92
+27041,,Biopsy of soft tissues,10.18
+27043,,Exc hip pelvis les sc 3 cm/>,6.88
+27045,,Exc hip/pelv tum deep 5 cm/>,11.13
+27047,,Exc hip/pelvis les sc < 3 cm,4.94
+27048,,Exc hip/pelv tum deep < 5 cm,8.85
+27049,,Resect hip/pelv tum < 5 cm,21.55
+27050,,Biopsy of sacroiliac joint,4.74
+27052,,Biopsy of hip joint,7.42
+27054,,Removal of hip joint lining,9.21
+27057,,Buttock fasciotomy w/dbrdmt,14.91
+27059,,Resect hip/pelv tum 5 cm/>,29.35
+27060,,Removal of ischial bursa,5.87
+27062,,Remove femur lesion/bursa,5.75
+27065,,Remove hip bone les super,6.55
+27066,,Remove hip bone les deep,11.20
+27067,,Remove/graft hip bone lesion,14.72
+27070,,Part remove hip bone super,11.56
+27071,,Part removal hip bone deep,12.39
+27075,,Resect hip tumor,32.71
+27076,,Resect hip tum incl acetabul,40.21
+27077,,Resect hip tum w/innom bone,45.21
+27078,,Rsect hip tum incl femur,32.21
+27080,,Removal of tail bone,6.89
+27086,,Remove hip foreign body,1.92
+27087,,Remove hip foreign body,8.83
+27090,,Removal of hip prosthesis,11.69
+27091,,Removal of hip prosthesis,24.35
+27093,,Injection for hip x-ray,1.30
+27095,,Injection for hip x-ray,1.50
+27096,,Inject sacroiliac joint,1.48
+27097,,Revision of hip tendon,9.27
+27098,,Transfer tendon to pelvis,9.32
+27100,,Transfer of abdominal muscle,11.35
+27105,,Transfer of spinal muscle,12.04
+27110,,Transfer of iliopsoas muscle,13.77
+27111,,Transfer of iliopsoas muscle,12.60
+27200,,Treat tail bone fracture,1.92
+27202,,Treat tail bone fracture,7.31
+61783,,Navigation spinal instr,3.75
+62263,,Epidural lysis mult sessions,5.00
+62264,,Epidural lysis on single day,4.42
+62267,,Interdiscal perq aspir dx,3.00
+62268,,Drain spinal cord cyst,4.73
+62269,,Needle biopsy spinal cord,5.01
+62270,,Dx lmbr spi pnxr,1.22
+62272,,Ther spi pnxr drg csf,1.58
+62273,,Inject epidural patch,2.15
+62280,,Treat spinal cord lesion,2.63
+62281,,Treat spinal cord lesion,2.66
+62282,,Treat spinal canal lesion,2.33
+62284,,Injection for myelogram,1.54
+62287,,Dcmprn px perq 1/mlt lumbar,9.03
+62328,,Dx lmbr spi pnxr w/fluor/ct,1.73
+62329,,Ther spi pnxr csf fluor/ct,2.03
+62350,,Implant spinal canal cath,6.05
+62351,,Implant spinal canal cath,11.66
+62355,,Remove spinal canal catheter,3.55
+62360,,Insert spine infusion device,4.33
+62361,,Implant spine infusion pump,5.00
+62362,,Implant spine infusion pump,5.60
+62365,,Remove spine infusion device,3.93
+62367,,Analyze spine infus pump,0.48
+62368,,Analyze sp inf pump w/reprog,0.67
+62369,,Anal sp inf pmp w/reprg&fill,0.67
+62370,,Anl sp inf pmp w/mdreprg&fil,0.90
+62380,,Ndsc dcmprn 1 ntrspc lumbar,0.00
+63001,,Laminectomy wo facetectomy 1-2 cervical,17.61
+63003,,Laminectomy wo facetectomy 1-2 thoracic,17.74
+63005,,Laminectomy wo facetectomy 1-2 lumbar,16.43
+63011,,Laminectomy wo facetectomy 1-2 sacrum,15.91
+63012,,Laminectomy facetectomy/pars-removal lumbar for spondylolisthesis,16.85
+63015,,Laminectomy wo facetectomy 3 or more cervical,20.85
+63016,,Laminectomy wo facetectomy 3 or more thoracic,22.03
+63017,,Laminectomy wo facetectomy 3 or more lumbar,17.33
+63020,,Laminotomy / discectomy cervical,14.91
+63030,,Laminotomy / discectomy lumbar,12.00
+63035,,Laminotomy / discectomy ea additional,3.86
+63040,,Laminotomy / discectomy revision cervical,20.31
+63042,,Laminotomy / discectomy revision lumbar,18.76
+63043,,Laminotomy / discectomy revision addl cervical,0.00
+63044,,Laminotomy / discectomy revisionaddl lumbar,0.00
+63045,,Laminectomy w foraminotomy cervical,17.95
+63046,,Laminectomy w foraminotomy thoracic,17.25
+63047,,Laminectomy w foraminotomy lumbar,15.37
+63048,,Laminectomy w foraminotomy ea addl,3.47
+63050,,Cervical laminoplasty no plate 2/> seg,22.01
+63051,,Cervical laminoplasty with plate,25.51
+63052,,Laminectomy with TLIF lumbar 1,4.25
+63053,,Laminectomy with TLIF lumbar ea additional,3.78
+63055,,Discectomy far lateral or transpedicular thoracic,23.55
+63056,,Discectomy far lateral or transpedicular lumbar,21.86
+63057,,Discectomy fat lateral or transpedicular add-on,5.25
+63064,,Costotranservectomy,26.22
+63066,,Costotransersectomy add-on,3.26
+63075,,ACD Anterior disectomy cervical,19.60
+63076,,ACD Anterior disectomy cervical ea add,4.04
+63077,,Anterior thoracic disectomy,22.88
+63078,,Anterior thoracic disectomy ea add,3.28
+63081,,Corpectomy cervical,26.10
+63082,,Corpectomy cervical ea add,4.36
+63085,,Corpectomy thoracic,29.47
+63086,,Corpectomy thoracic add-on,3.19
+63087,,Corpectomy thoracic thoracolumbar,37.53
+63088,,Corpectomy thoracic thoracolumbar ea add,4.32
+63090,,Corpectomy lumbar,30.93
+63091,,Corpectomy lumbar ea add,3.03
+63101,,Corpectomy lateral extracavitary thoracic,34.10
+63102,,Corpectomy lateral extracavitary lumbar,34.10
+63103,,Corpectomy lateral extracavitary add-on,4.82
+63170,,Incise spinal cord tract(s),22.21
+63172,,Drainage of spinal cyst,19.76
+63173,,Drainage of spinal cyst,24.31
+63185,,Incise spine nrv half segmnt,16.49
+63190,,Incise spine nrv >2 segmnts,18.89
+63191,,Incise spine accessory nerve,18.92
+63197,,Lam w/cordotomy 1stg thrc,24.08
+63200,,Release spinal cord lumbar,21.44
+63250,,Revise spinal cord vsls crvl,43.86
+63251,,Revise spinal cord vsls thrc,44.64
+63252,,Revise spine cord vsl thrlmb,44.63
+63265,,Excise intraspinl lesion crv,23.82
+63266,,Excise intrspinl lesion thrc,24.68
+63267,,Excise intrspinl lesion lmbr,19.45
+63268,,Excise intrspinl lesion scrl,20.02
+63270,,Excise intrspinl lesion crvl,29.80
+63271,,Excise intrspinl lesion thrc,29.92
+63272,,Excise intrspinl lesion lmbr,27.50
+63273,,Excise intrspinl lesion scrl,26.47
+63275,,Bx/exc xdrl spine lesn crvl,25.86
+63276,,Bx/exc xdrl spine lesn thrc,25.69
+63277,,Bx/exc xdrl spine lesn lmbr,22.39
+63278,,Bx/exc xdrl spine lesn scrl,22.12
+63280,,Bx/exc idrl spine lesn crvl,30.29
+63281,,Bx/exc idrl spine lesn thrc,29.99
+63282,,Bx/exc idrl spine lesn lmbr,28.15
+63283,,Bx/exc idrl spine lesn scrl,26.76
+63285,,Bx/exc idrl imed lesn cervl,38.05
+63286,,Bx/exc idrl imed lesn thrc,37.62
+63287,,Bx/exc idrl imed lesn thrlmb,40.08
+63290,,Bx/exc xdrl/idrl lsn any lvl,40.82
+63295,,Repair laminectomy defect,5.25
+63300,,Remove vert xdrl body crvcl,26.80
+63301,,Remove vert xdrl body thrc,31.57
+63302,,Remove vert xdrl body thrlmb,31.15
+63303,,Remov vert xdrl bdy lmbr/sac,33.55
+63304,,Remove vert idrl body crvcl,33.85
+63305,,Remove vert idrl body thrc,36.24
+63306,,Remov vert idrl bdy thrclmbr,35.55
+63307,,Remov vert idrl bdy lmbr/sac,34.96
+63308,,Remove vertebral body add-on,5.24
+63600,,Remove spinal cord lesion,15.12
+63610,,Stimulation of spinal cord,8.72
+63620,,Srs spinal lesion,15.60
+63621,,Srs spinal lesion addl,4.00
+63650,,Implant neuroelectrodes,7.15
+63655,,Implant neuroelectrodes,10.92
+63661,,Remove spine eltrd perq aray,5.08
+63662,,Remove spine eltrd plate,11.00
+63663,,Revise spine eltrd perq aray,7.75
+63664,,Revise spine eltrd plate,11.52
+63685,,Ins/rplc spi npg/rcvr pocket,5.19
+63688,,Rev/rmv imp sp npg/r dtch cn,4.35
+63700,,Repair of spinal herniation,17.47
+63702,,Repair of spinal herniation,19.41
+63704,,Repair of spinal herniation,22.43
+63706,,Repair of spinal herniation,25.35
+63707,,Repair spinal fluid leakage,12.65
+63709,,Repair spinal fluid leakage,15.65
+63710,,Graft repair of spine defect,15.40
+63740,,Install spinal shunt,12.63
+63741,,Install spinal shunt,9.12
+63744,,Revision of spinal shunt,8.94
+63746,,Removal of spinal shunt,7.33
+64400,,Njx aa&/strd trigeminal nrv,0.75
+64405,,Njx aa&/strd gr ocpl nrv,0.94
+64408,,Njx aa&/strd vagus nrv,0.75
+64415,,Njx aa&/strd brch plxs img,1.50
+64416,,Njx aa&/strd brch pl nfs img,1.80
+64417,,Njx aa&/strd ax nerve img,1.31
+64418,,Njx aa&/strd sprscap nrv,1.10
+64420,,Njx aa&/strd ntrcost nrv 1,1.08
+64421,,Njx aa&/strd ntrcost nrv ea,0.50
+64425,,Njx aa&/strd ii ih nerves,1.00
+64430,,Njx aa&/strd pudendal nerve,1.00
+64435,,Njx aa&/strd paracrv nrv,0.75
+64445,,Njx aa&/strd sciatic nrv img,1.39
+64446,,Njx aa&/strd sc nrv nfs img,1.75
+64447,,Njx aa&/strd femoral nrv img,1.34
+64448,,Njx aa&/strd fem nrv nfs img,1.68
+64449,,Njx aa&/strd lmbr plex nfs,1.27
+64450,,Njx aa&/strd other pn/branch,0.75
+64451,,Njx aa&/strd nrv nrvtg si jt,1.52
+64454,,Njx aa&/strd gnclr nrv brnch,1.52
+64455,,Njx aa&/strd pltr com dg nrv,0.75
+64461,,Pvb thoracic single inj site,1.75
+64462,,Pvb thoracic 2nd+ inj site,1.10
+64463,,Pvb thoracic cont infusion,1.90
+64479,,Njx aa&/strd tfrm epi c/t 1,2.29
+64480,,Njx aa&/strd tfrm epi c/t ea,1.20
+64483,,Njx aa&/strd tfrm epi l/s 1,1.90
+64484,,Njx aa&/strd tfrm epi l/s ea,1.00
+64486,,Tap block unil by injection,1.27
+64487,,Tap block uni by infusion,1.48
+64488,,Tap block bi injection,1.60
+64489,,Tap block bi by infusion,1.80
+64490,,Inj paravert f jnt c/t 1 lev,1.82
+64491,,Inj paravert f jnt c/t 2 lev,1.16
+64492,,Inj paravert f jnt c/t 3 lev,1.16
+64493,,Inj paravert f jnt l/s 1 lev,1.52
+64494,,Inj paravert f jnt l/s 2 lev,1.00
+64495,,Inj paravert f jnt l/s 3 lev,1.00
+64505,,N block spenopalatine gangl,1.36
+64510,,N block stellate ganglion,1.22
+64517,,N block inj hypogas plxs,2.20
+64520,,N block lumbar/thoracic,1.35
+64530,,N block inj celiac pelus,1.58
+64553,,Implant neuroelectrodes,6.13
+64555,,Implant neuroelectrodes,5.76
+64561,,Implant neuroelectrodes,5.44
+64566,,Neuroeltrd stim post tibial,0.60
+64568,,Opn impltj crnl nrv nea&pg,9.00
+64569,,Revise/repl vagus n eltrd,11.00
+64570,,Remove vagus n eltrd,9.10
+64575,,Opn impltj nea perph nerve,4.42
+64580,,Opn impltj nea neuromuscular,4.19
+64581,,Opn impltj nea sacral nerve,12.20
+64582,,Opn mpltj hpglsl nstm ary pg,14.00
+64583,,Rev/rplct hpglsl nstm ary pg,14.50
+64584,,Rmvl hpglsl nstim ary pg,12.00
+64585,,Rev/rmv perph nstim eltrd ra,2.11
+64590,,Ins/rpl prph sac/gstr npg/r,5.10
+64595,,Rev/rmv prph sac/gstr npg/r,3.79
+64596,,Ins/rplcmt prq eltrd ra pn 1,0.00
+64597,,Ins/rplcm prq eltrd ra pn ea,0.00
+64598,,Revj/rmvl nea pn w/int nstim,0.00
+64600,,Injection treatment of nerve,3.49
+64605,,Injection treatment of nerve,5.65
+64610,,Injection treatment of nerve,7.20
+64611,,Chemodenerv saliv glands,1.03
+64612,,Destroy nerve face muscle,1.41
+64615,,Chemodenerv musc migraine,1.85
+64616,,Chemodenerv musc neck dyston,1.53
+64617,,Chemodener muscle larynx emg,1.90
+64620,,Injection treatment of nerve,2.89
+64624,,Dstrj nulyt agt gnclr nrv,2.50
+64625,,Rf abltj nrv nrvtg si jt,3.39
+64628,,Trml dstrj ios bvn 1st 2 l/s,7.15
+64629,,Trml dstrj ios bvn ea addl,3.77
+64630,,Injection treatment of nerve,3.05
+64632,,N block inj common digit,1.23
+64633,,Destroy cerv/thor facet jnt,3.32
+64634,,Destroy c/th facet jnt addl,1.32
+64635,,Destroy lumb/sac facet jnt,3.32
+64636,,Destroy l/s facet jnt addl,1.16
+64640,,Injection treatment of nerve,1.98
+64642,,Chemodenerv 1 extremity 1-4,1.65
+64643,,Chemodenerv 1 extrem 1-4 ea,1.22
+64644,,Chemodenerv 1 extrem 5/> mus,1.82
+64645,,Chemodenerv 1 extrem 5/> ea,1.39
+64646,,Chemodenerv trunk musc 1-5,1.80
+64647,,Chemodenerv trunk musc 6/>,2.11
+64650,,Chemodenerv eccrine glands,0.70
+64653,,Chemodenerv eccrine glands,0.88
+64680,,Injection treatment of nerve,2.67
+64681,,Injection treatment of nerve,3.78
+64702,,Revise finger/toe nerve,6.26
+64704,,Revise hand/foot nerve,4.69
+64708,,Revise arm/leg nerve,6.36
+64712,,Revision of sciatic nerve,8.07
+64713,,Revision of arm nerve(s),11.40
+64714,,Revise low back nerve(s),10.55
+97605,,Neg prs wnd ther dme<=50sqcm,0.55
+97606,,Neg prs wnd ther dme>50 sqcm,0.60
+97607,,Neg prs wnd thr ndme<=50sqcm,0.41
+97608,,Neg prs wnd ther ndme>50sqcm,0.46

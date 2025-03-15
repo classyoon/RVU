@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		CA704BEC2D85F0030085EF01 /* CodableCSV in Frameworks */ = {isa = PBXBuildFile; productRef = CA704BEB2D85F0030085EF01 /* CodableCSV */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		CA704B8C2D85E46D0085EF01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -52,6 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA704BEC2D85F0030085EF01 /* CodableCSV in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -112,6 +117,7 @@
 			);
 			name = RVU;
 			packageProductDependencies = (
+				CA704BEB2D85F0030085EF01 /* CodableCSV */,
 			);
 			productName = RVU;
 			productReference = CA704B7B2D85E46A0085EF01 /* RVU.app */;
@@ -195,6 +201,9 @@
 			);
 			mainGroup = CA704B722D85E46A0085EF01;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				CA704BEA2D85F0030085EF01 /* XCRemoteSwiftPackageReference "CodableCSV" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = CA704B7C2D85E46A0085EF01 /* Products */;
 			projectDirPath = "";
@@ -558,6 +567,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		CA704BEA2D85F0030085EF01 /* XCRemoteSwiftPackageReference "CodableCSV" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/dehesa/CodableCSV";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.6.7;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		CA704BEB2D85F0030085EF01 /* CodableCSV */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CA704BEA2D85F0030085EF01 /* XCRemoteSwiftPackageReference "CodableCSV" */;
+			productName = CodableCSV;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = CA704B732D85E46A0085EF01 /* Project object */;
 }
